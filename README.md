@@ -27,19 +27,19 @@ By the end of this project, you will have a strong foundation in using Python fo
 ## Analysis 
 
 ### Google stock data as a candlestick chart
-<img src="./fig/google_candle.png">
+<img src="./google_candle.png">
 
 ### Google stock data as a bar chart
-<img src="./fig/google_bar.png">
+<img src="./google_bar.png">
 
 ### Google stock data as a line chart with a range slider
-<img src="./fig/linechart_range_slider.png">
+<img src="./linechart_range_slider.png">
 
 ### Google stock data as a line chart with time period selectors
-<img src="./fig/linechart_time_period_selector.png">
+<img src="./linechart_time_period_selector.png">
 
 ### Google stock data as a scatter plot with hidden weekend gaps
-<img src="./fig/scatter_hidden_gaps.png">
+<img src="./scatter_hidden_gaps.png">
 
 
 
